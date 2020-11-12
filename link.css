@@ -1,0 +1,32 @@
+body{
+  background:#B3B3B3;
+  font-size:150%;
+  margin: 4%;
+}
+a{
+  display:block;
+  font-weight:BOLD;
+  color:#ffffff;
+  background:#0006cc;
+  width:200px;
+  text-align: center;
+  padding:4px;
+  margin:0 auto;
+  margin-top:10px;
+  
+  
+}
+header{
+  background:#FFC0CB;
+  text-align: center;
+  padding:15px;
+}
+section{
+  width: 30%;
+  display:inline-block;
+  float: left;
+  margin-right:2%;
+}
+img{
+  width:75px;
+}
